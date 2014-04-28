@@ -4,5 +4,6 @@ I'm mainly doing this for my own personal use and also to practice my programmin
 
 April 28th, 2014
 ----------------
-+Have successfully connected the application to a database using the JDBC Driver.
-+Successfully able to create a new user.
+	- Have successfully connected the application to a database using the JDBC Driver.
+	- Successfully able to create a new user.
+		- Makes sure that passwords match before creating user.
